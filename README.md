@@ -1,4 +1,4 @@
-# FlaskBase
+# Flask Project Structure
 ## Base structure for a flask project with a little magic.
 
 This is a blueprint for every small-to-medium flask + SQLAlchemy projects. Designed to be cloned and used on the fly.
